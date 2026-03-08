@@ -47,9 +47,10 @@ a:hover {
 }
 
 hr {
-  border: none !important;
-  box-shadow: none !important;
-  background: transparent !important;
+  border: 0 !important;
+  height: 1px !important;
+  background: #373e47 !important;
+  margin: 1.8rem 0 !important;
 }
 
 code {
