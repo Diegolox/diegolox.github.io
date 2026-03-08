@@ -25,7 +25,6 @@ TheBUG01 es una plataforma robótica basada en una **PCB todo-en-uno** para un r
 
 <details>
   <summary><strong>Qué incluye el proyecto</strong></summary>
-  <br>
   <ul>
     <li>Diseño del circuito impreso</li>
     <li>Desarrollo de firmware para control y sensórica</li>
