@@ -1,5 +1,5 @@
 # Hola, soy **Diego** 👋
-
+<meta name="color-scheme" content="dark">
 Soy ingeniero / estudiante de **Ingeniería Electrónica y Automática** con interés en **control**, **sistemas embebidos**, **instrumentación**, **automatización** y **desarrollo hardware-software**.
 
 En este perfil comparto proyectos donde intento mostrar no solo el resultado final, sino también el enfoque técnico detrás del desarrollo: modelado, diseño, implementación, validación y documentación.
