@@ -1,4 +1,4 @@
-# Hola, soy **TU NOMBRE** 👋
+# Hola, soy **Diego** 👋
 
 Soy ingeniero / estudiante de **Ingeniería Electrónica y Automática** con interés en **control**, **sistemas embebidos**, **instrumentación**, **automatización** y **desarrollo hardware-software**.
 
