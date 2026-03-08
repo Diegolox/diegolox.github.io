@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="URL-DE-TU-IMAGEN-DARK">
+  <source media="(prefers-color-scheme: light)" srcset="URL-DE-TU-IMAGEN-LIGHT">
+  <img alt="Banner del perfil de Diego" src="URL-DE-TU-IMAGEN-LIGHT">
+</picture>
+
 # Hola, soy **Diego** 🤖
 
 Soy **Ingeniero Electrónico y Automático** con interés en **diseño de PCBs**, **sistemas embebidos**, **ML**, **control** e **IoT**.
