@@ -1,4 +1,4 @@
-# Hola, soy **Diego** 👋
+# Hola, soy **Diego** 🤖
 
 Soy **Ingeniero Electrónico y Automático** con interés en **diseño de PCBs**, **sistemas embebidos**, **ML**, **control** e **IoT**.
 
