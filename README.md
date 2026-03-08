@@ -21,7 +21,7 @@ TheBUG01 es una plataforma robótica basada en una **PCB todo-en-uno** para un r
 - **3 sensores TOF400 por I²C** para detección de obstáculos
 - Driver dual **TB6612FNG** para control de motores DC
 - Convertidor **DC-DC** integrado
-- Protección frente a **back-EMF / regeneración**
+- Protección frente a **back-EMF**
 - Diseño orientado a educación y robótica experimental
 
 <details>
