@@ -7,13 +7,11 @@
   color-scheme: dark;
 }
 
-/* Fondo general */
 body {
   background: #22272e !important;
   color: #adbac7 !important;
 }
 
-/* Contenedores principales del tema */
 .wrapper,
 .container,
 .page-content,
@@ -26,24 +24,20 @@ footer {
   color: #adbac7 !important;
 }
 
-/* Títulos */
 h1, h2, h3, h4, h5, h6 {
   color: #cdd9e5 !important;
-  border-bottom: 1px solid #373e47 !important;
-  padding-bottom: 0.25em;
+  border: none !important;
+  box-shadow: none !important;
 }
 
-/* Texto normal */
 p, li, ul, ol {
   color: #adbac7 !important;
 }
 
-/* Negritas */
 strong, b {
   color: #e6edf3 !important;
 }
 
-/* Enlaces */
 a {
   color: #539bf5 !important;
 }
@@ -52,14 +46,12 @@ a:hover {
   color: #6cb6ff !important;
 }
 
-/* Separadores */
 hr {
-  border: 0 !important;
-  height: 1px !important;
-  background: #373e47 !important;
+  border: none !important;
+  box-shadow: none !important;
+  background: transparent !important;
 }
 
-/* Código */
 code {
   background: #2d333b !important;
   color: #adbac7 !important;
@@ -76,14 +68,12 @@ pre {
   padding: 1em;
 }
 
-/* Citas */
 blockquote {
   color: #9da7b3 !important;
   border-left: 4px solid #444c56 !important;
   background: transparent !important;
 }
 
-/* Tablas */
 table {
   border-collapse: collapse;
 }
@@ -98,7 +88,6 @@ th {
   color: #cdd9e5 !important;
 }
 
-/* Imágenes */
 img {
   border-radius: 8px;
 }
