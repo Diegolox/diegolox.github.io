@@ -6,7 +6,7 @@ En este perfil comparto proyectos donde intento mostrar no solo el resultado fin
 
 ---
 
-## Proyecto destacado
+## Proyectos destacado
 
 ### [TheBUG01](https://github.com/Diegolox/TheBUG01)
 
@@ -36,6 +36,14 @@ TheBUG01 es una plataforma robótica basada en una **PCB todo-en-uno** para un r
 </details>
 
 **Tecnologías:** `C` `C++` `KiCad` `Fusion 360`
+
+---
+
+## Listado de proyectos
+
+# [TheBUG01](https://github.com/Diegolox/TheBUG01) robot diferencial
+
+
 
 ---
 
