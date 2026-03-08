@@ -6,8 +6,7 @@ En este perfil comparto proyectos donde intento mostrar no solo el resultado fin
 
 ---
 
-## Proyectos destacado
-
+## Proyectos destacados
 ### [TheBUG01](https://github.com/Diegolox/TheBUG01)
 
 **Robot diferencial plug-and-play para prototipado rápido y educación**
