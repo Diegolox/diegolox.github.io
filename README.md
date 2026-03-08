@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="URL-DE-TU-IMAGEN-DARK">
-  <source media="(prefers-color-scheme: light)" srcset="URL-DE-TU-IMAGEN-LIGHT">
-  <img alt="Banner del perfil de Diego" src="URL-DE-TU-IMAGEN-LIGHT">
+  <source media="(prefers-color-scheme: dark)" srcset="...">
+  <source media="(prefers-color-scheme: light)" srcset="...">
+  <img ...>
 </picture>
 
 # Hola, soy **Diego** 🤖
