@@ -41,7 +41,7 @@ TheBUG01 es una plataforma robótica basada en una **PCB todo-en-uno** para un r
 ## Listado de proyectos
 * [TheBUG01](https://github.com/Diegolox/TheBUG01) robot diferencial
 * [JGR26](https://github.com/Carlso16/JRG26) robot 4 ruedas sumo y siguelineas
-
+* [SIGUEPOP](https://github.com/Diegolox/SIGUEPOP) aplicación para calibrar las constantes del control de un robot siguelineas
 
 ---
 
